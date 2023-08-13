@@ -9,10 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.andylke.demo</groupId>
-	<artifactId>demo-spring-data-jpa-transactional-not-supported</artifactId>
+	<artifactId>demo-spring-jpa-transactional-not-supported</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
